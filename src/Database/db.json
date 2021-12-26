@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "ayan",
+      "username": "ayan",
+      "email": "ayan@gmail.com",
+      "phone": "0304444444",
+      "id": 3
+    },
+    {
+      "name": "asghar ali",
+      "username": "aaa",
+      "email": "asb@gmail.com",
+      "phone": "2222222222",
+      "id": 4
+    }
+  ]
+}
